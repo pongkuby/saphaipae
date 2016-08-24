@@ -1,8 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars></Jars>
-  <ResolvedResourceDirectories />
-  <ResolvedAssetDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Maps.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Maps.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Maps.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\MWA\VSWorkspace\saphaipae\Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>
