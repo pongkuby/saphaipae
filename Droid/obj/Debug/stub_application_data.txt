@@ -1,2 +1,0 @@
-android.app.Application
-th.co.mwa.xamarin.saphaipae

@@ -38,5 +38,3 @@ E:\saphaipae\Saphaipae\obj\Debug\Saphaipae.dll
 E:\saphaipae\Saphaipae\obj\Debug\Saphaipae.pdb
 E:\saphaipae\Saphaipae\obj\Debug\Saphaipae.dll.mdb
 E:\saphaipae\Saphaipae\bin\Debug\Saphaipae.dll.mdb
-E:\saphaipae\Saphaipae\obj\Debug\Saphaipae.dll.mdb
-E:\saphaipae\Saphaipae\bin\Debug\Saphaipae.dll.mdb
