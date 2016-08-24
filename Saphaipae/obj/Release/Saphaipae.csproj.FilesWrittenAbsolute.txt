@@ -1,0 +1,14 @@
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.App.xaml.g.cs
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.SaphaipaePage.xaml.g.cs
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.MainPage.xaml.g.cs
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.DetailPage.xaml.g.cs
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.App.xaml
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.SaphaipaePage.xaml
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.MainPage.xaml
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.DetailPage.xaml
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/bin/Release/Saphaipae.dll
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/obj/Release/Saphaipae.dll
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/bin/Release/Xamarin.Forms.Core.dll
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Saphaipae/bin/Release/Xamarin.Forms.Platform.dll

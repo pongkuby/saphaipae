@@ -1,0 +1,1 @@
+/Users/kpb1/Documents/งานปอง/xamarin/Saphaipae/Droid/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs

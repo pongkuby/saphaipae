@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="iOS/Saphaipae.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.Saphaipae.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.ed90097d69fc139a69de74d2d37b42ce70b4d464" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Saphaipae/SaphaipaePage.xaml.cs">
+    <Files>
+      <File FileName="Saphaipae/SaphaipaePage.xaml.cs" Line="39" Column="5" />
+      <File FileName="Saphaipae/DetailPage.xaml.cs" Line="14" Column="3" />
+      <File FileName="Saphaipae/SaphaipaePage.xaml" Line="13" Column="41" />
+      <File FileName="Saphaipae/Review.cs" Line="15" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Droid/Saphaipae.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>

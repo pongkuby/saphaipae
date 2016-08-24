@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Saphaipae" x:Class="Saphaipae.MainPage" Title="สะพายเป้..เปิดโลกกว้าง้">
+
+	<NavigationPage Title="หน้าหลัก" Icon="home-icon.png">
+		<x:Arguments>
+			<local:SaphaipaePage />
+		</x:Arguments>
+	</NavigationPage>
+	<NavigationPage Title="เส้นทาง" Icon="map-icon.png">
+		<x:Arguments>
+			<local:SaphaipaePage />
+		</x:Arguments>
+	</NavigationPage>
+	<NavigationPage Title="จุดสนใจ" Icon="camera-icon.png">
+		<x:Arguments>
+			<local:SaphaipaePage />
+		</x:Arguments>
+	</NavigationPage>
+</TabbedPage>
